@@ -31,12 +31,13 @@ padding: 24px 0;}
     font-size: 24px;}
 
     .escola
-{background-image: linear-gradient(rgb(255, 252, 252),rgb(255, 0, 0));
+{background-image: linear-gradient(rgb(143, 8, 8),rgb(255, 0, 0));
 color: rgb(0, 0, 0);
 display: flex;
 align-items: center;
 padding: 24px,0}
-
+.escola-conteudo
+{width: 3000%;}
 
 
 
